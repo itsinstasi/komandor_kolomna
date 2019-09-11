@@ -1,0 +1,2 @@
+﻿User-agent: *
+Sitemap: https://komandor_kolomna.itsinsta.site/sitemap.xml
