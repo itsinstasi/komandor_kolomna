@@ -1,2 +1,2 @@
 ﻿User-agent: *
-Sitemap: https://komandor_kolomna.itsinsta.site/sitemap.xml
+Sitemap: https://skafmo.ru/sitemap.xml
